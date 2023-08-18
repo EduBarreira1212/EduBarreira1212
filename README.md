@@ -1,5 +1,6 @@
 ## Welcome to my GitHub
 <h4>My name's Eduardo Barreira, I'm a software developer</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edubarreira1212&label=Profile%20views&color=0e75b6&style=flat" alt="edubarreira1212" /> </p>
 
 ## Skills
 <div>
@@ -10,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edubarreira1212&show_icons=true&locale=en&layout=compact" alt="edubarreira1212" /></p>
 
 ## Contact:
 
