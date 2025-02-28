@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <p></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edubarreira1212&show_icons=true&locale=en&layout=compact" alt="edubarreira1212" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edubarreira1212&show_icons=true&theme=dracula&locale=en&layout=compact" alt="edubarreira1212" /></p>
 </div>
 
 
