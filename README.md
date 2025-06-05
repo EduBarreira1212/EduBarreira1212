@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my GitHub</h1>
-<h2 align="center">Hi 👋! My name's Eduardo Barreira and I'm a Software Developer, from Brazil</h2>
+<h1 align="center">👋 Hello, World!</h1>
+<h2 align="center">I'm Eduardo Barreira — Software Developer from Brazil 🇧🇷</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edubarreira1212&label=Profile%20views&color=0e75b6&style=flat" alt="edubarreira1212" /> </p>
 
 <h1 align="center">Skills</h1>
