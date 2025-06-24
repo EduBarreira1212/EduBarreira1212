@@ -44,6 +44,7 @@ I like learning and experimenting with new technologies — always striving to i
 ### Database & ORM
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://camo.githubusercontent.com/fefd328256fa569e9d98dae1a06d995102ccd3b605b7173b41ce39fc5588bc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707269736d612f707269736d612d6f726967696e616c2e737667" height="40" />
 </div>
